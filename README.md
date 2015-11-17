@@ -15,5 +15,5 @@
 
 
 
-**Dieser Text wird Fett gedruckt**
+**Dieser Text wird fett gedruckt**
 *Dieser Text ist kursiv*
